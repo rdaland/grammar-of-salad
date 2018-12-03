@@ -1,3 +1,6 @@
+.gitignore
 my_password.txt
 my_token.txt
-.gitignore
+*.aux
+*.log
+*.synctex.gz

@@ -1,0 +1,25 @@
+\documentclass{book}
+\parindent0pt  \parskip10pt     % make block paragraphs
+\raggedright                            % do not right justify
+
+\title{The Grammar of Salad}
+\author{Robert Daland}
+
+\begin{document}
+
+\frontmatter
+    \maketitle \newpage
+    \input{dedication.tex}
+    \include{preface}
+    \tableofcontents
+
+\mainmatter
+    \include{salsa_chapter}
+
+    \appendix
+    \chapter{First Appendix}
+
+\backmatter
+    \chapter{Last note}
+
+\end{document}

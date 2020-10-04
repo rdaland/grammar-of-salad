@@ -1,0 +1,36 @@
+\contentsline {chapter}{Preface}{iii}
+\contentsline {chapter}{\numberline {1}Salsas and Ceviches}{1}
+\contentsline {section}{\numberline {1.1}Salsa Fresca}{2}
+\contentsline {subsection}{\numberline {1.1.1}Things you need to do beforehand}{2}
+\contentsline {subsection}{\numberline {1.1.2}Ingredients}{2}
+\contentsline {subsection}{\numberline {1.1.3}Implements}{2}
+\contentsline {subsection}{\numberline {1.1.4}General Flow}{3}
+\contentsline {subsection}{\numberline {1.1.5}Detailed instructions for prepping and mixing}{3}
+\contentsline {subsubsection}{Cilantro}{3}
+\contentsline {subsubsection}{Limes}{5}
+\contentsline {subsubsection}{Tomatoes}{5}
+\contentsline {subsubsection}{Onions}{6}
+\contentsline {subsubsection}{Garlic}{6}
+\contentsline {subsubsection}{Jalapeno}{6}
+\contentsline {subsubsection}{Mixing}{7}
+\contentsline {section}{\numberline {1.2}Guacamole}{8}
+\contentsline {subsubsection}{Picking avocados}{8}
+\contentsline {subsubsection}{Prepping avocados}{8}
+\contentsline {subsubsection}{Mixing}{8}
+\contentsline {section}{\numberline {1.3}Roasted Garlic Salsa}{9}
+\contentsline {subsection}{\numberline {1.3.1}Things you need to do beforehand}{9}
+\contentsline {subsection}{\numberline {1.3.2}Ingredients}{9}
+\contentsline {subsection}{\numberline {1.3.3}Implements}{9}
+\contentsline {subsection}{\numberline {1.3.4}General Flow}{9}
+\contentsline {subsection}{\numberline {1.3.5}Detailed instructions for prepping and mixing}{10}
+\contentsline {subsubsection}{Same as for \textit {salsa fresca}}{10}
+\contentsline {subsubsection}{Olive oil}{10}
+\contentsline {subsubsection}{Bell peppers}{11}
+\contentsline {subsubsection}{Roasting}{11}
+\contentsline {subsubsection}{Deglazing}{12}
+\contentsline {subsubsection}{Final mixing}{12}
+\contentsline {section}{\numberline {1.4}Carrot Habanero Salsa}{13}
+\contentsline {section}{\numberline {1.5}Ceviches}{14}
+\contentsline {section}{\numberline {1.6}Fruit Salad}{15}
+\contentsline {chapter}{\numberline {A}First Appendix}{17}
+\contentsline {chapter}{Last note}{19}
